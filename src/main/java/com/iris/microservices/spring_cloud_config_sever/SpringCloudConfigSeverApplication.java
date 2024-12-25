@@ -14,6 +14,6 @@ public class SpringCloudConfigSeverApplication {
 //	url to get the configuration "localhost:8888//limits-services/default"
 
 //	ie limits-services is the name of the propertied file in the local git repo
-//	default means the default environment , where other other environments can be production env, test env
+//	default means the default environment , where other environments can be production env, test env
 
 }
